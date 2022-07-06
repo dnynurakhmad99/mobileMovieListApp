@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="movie_list">DAFTAR FILM</string>
+    <string name="release_date">Tanggal rilis</string>
+    <string name="rating">Nilai</string>
+    <string name="about">TENTANG</string>
+    <string name="btn_logout">KELUAR</string>
+    <string name="login">MASUK</string>
+    <string name="register">DAFTAR</string>
+    <string name="username">nama pengguna</string>
+    <string name="password">kata sandi</string>
+    <string name="password_confirm">konfirmasi kata sandi</string>
+    <string name="btn_login">MASUK</string>
+    <string name="btn_register">DAFTAR</string>
+</resources>

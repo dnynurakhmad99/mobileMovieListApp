@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="movie_list">MOVIE LIST</string>
+    <string name="release_date">Release date</string>
+    <string name="rating">Rating</string>
+    <string name="about">ABOUT</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="password_confirm">password confirmation</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+</resources>
